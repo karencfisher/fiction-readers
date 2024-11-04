@@ -5,7 +5,7 @@ a dataset on Kaggle that contains Goodreads reviews and book descriptions.
 
 https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 
-(The original CSV files, books_data.csv and books_rating" are omitted from the repository due to their size, but can be readily downloaded from Kaggle. The ETL notebooks, fiction.ipynb and reviews.ipynb, are included for process documentation purposes.)
+(The original CSV files, books_data.csv and books_rating" are omitted from the repository due to their size, but can be readily downloaded from Kaggle. The ETL notebooks, fiction.ipynb and reviews.ipynb, are included for process documentation purposes. The two notebooks should be run in order with fiction.ipynb run first, reviews.ipynb second.)
 
 The original is 3.04 GB, containg 212,404 books and 3 million reviews. We have 
 extracted from it 500 fictional books and 41 reviews by apparent pseudonymous 
