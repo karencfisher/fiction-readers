@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "final-project"
+name = "fiction-readers"
 version = "0.1.0"
 description = ""
 authors = ["karencfisher <karen@karencfisher.com>"]
